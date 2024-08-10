@@ -15,5 +15,3 @@ for i in range(3):
 print("＿人人人人人人人人人＿")
 print(f"＞{fortunes.center(16)}＜")
 print("￣Y^Y^Y^Y^Y^Y^Y^Y^Y￣")
-
-#出力で実行すると文字化けする。ターミナルだとしない。
